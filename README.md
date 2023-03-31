@@ -1,2 +1,2 @@
 # code-data-structures
-code data structures in Java
+covers code for data structures in Java
